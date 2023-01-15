@@ -8,3 +8,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Axios API calls
 - sass
 
+## How it looks
+![](https://github.com/Theonlydola/redux-movie-app/blob/main/capture-1.gif)
