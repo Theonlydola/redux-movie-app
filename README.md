@@ -5,5 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Skills
 - React.js
 - Redux.js toolkit (slices, reducers, thunks)
+- Axios API calls
 - sass
 
